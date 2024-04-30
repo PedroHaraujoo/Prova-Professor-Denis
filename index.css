@@ -1,5 +1,7 @@
 .bodyy{
     background-image: url("foto.jpg");
+    display:flex;
+    padding-inline-start: 350px;
 }
 .botaocadastro{
     background-color: rgb(117, 249, 94);
@@ -14,7 +16,11 @@
 }
 .botao1{
     font-size: 50px;
+    background-color: rgb(117, 249, 94);
 }
 .botao2{
     font-size: 50px;
+    padding-inline-start: 87px;
+    padding-inline-end: 87px;
+    background-color: rgb(117, 249, 94);
 }
