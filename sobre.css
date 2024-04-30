@@ -1,0 +1,46 @@
+select, body{
+    background-image: url("foto.jpg");
+}
+section, aside{
+    width: 50%;
+    padding-left: 250px;
+    
+}
+section header{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(117, 249, 94);
+    color: white;
+}
+section div{
+    padding-inline-start: 50px;
+    padding-block-end: 10px;
+    padding-top: 10px;
+    padding-inline-end: 50px;
+    text-align: center;
+    background-color: rgba(160, 108, 29, 0.835);
+    color: #000000
+}
+aside div{
+    padding-inline-start: 100px;
+    text-align: justify;
+    background-color: #eae6e6;
+}
+.topo{
+    text-align: left;
+    color: white;
+    background-color: rgba(107, 78, 34, 0.835);
+    text-align: center;
+}
+.PA{
+    background-color: rgba(107, 78, 34, 0.835);
+}
+.t4{
+    padding-inline-start: 50px;
+    padding-block-end: 10px;
+    padding-top: 10px;
+    padding-inline-end: 50px;
+    text-align: center;
+    background-color: rgba(160, 108, 29, 0.835);
+    color: #000000
+}

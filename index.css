@@ -1,0 +1,20 @@
+.bodyy{
+    background-image: url("foto.jpg");
+}
+.botaocadastro{
+    background-color: rgb(117, 249, 94);
+    font-size: 25px;
+    padding: 20px;
+    color: black;
+}
+.titulo{
+    font-size: 50px;
+    padding: 25px;
+    background-color: rgba(107, 78, 34, 0.835);
+}
+.botao1{
+    font-size: 50px;
+}
+.botao2{
+    font-size: 50px;
+}
